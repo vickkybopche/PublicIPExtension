@@ -1,0 +1,26 @@
+body{
+    width: 500px;
+    height: 300px;
+    background-image: linear-gradient(to top, #cc208e 0%, #6713d2 100%);
+    display: flex;
+    justify-content: center;
+    border-radius: 30px;
+}
+div{
+    
+    font-size: 20px;
+    color: aliceblue;
+    margin: 20px;
+    border-radius: 3px;
+    border: aliceblue 1px;
+    padding: 5px;
+}
+p{
+    display: inline-flex;
+    margin: auto 10px;
+    font-size: 18px;
+    color: white;
+    border-radius: 6px;
+    border: 1px solid lightblue;
+    padding: 10px;
+}
